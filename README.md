@@ -1,6 +1,8 @@
 # 💫 About Me:
 I love programming and I'm always excited to learn more about coding, and 📈 trading is something I'm really into. AI fascinates me, and 🎶 music is a big part of my life. I'm also a huge football fan! ⚽️ gaming  🎮 ⴰⵢⴻⵏ ⵉⴳⴻⵔⵔⵣⴻⵏ ⴷ Rebbi
 
+[Noureddine Aderak (nourddinak) — Portfolio](https://nourddinak.top)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nourddinak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nourddinak) 
