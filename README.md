@@ -7,9 +7,8 @@
   <a href="https://instagram.com/Nourddinak"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/Nourddinak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/nourddinak?tab=followers"><img src="https://img.shields.io/github/followers/nourddinak?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nourddinak&label=Profile+views&color=D7FF3A&style=for-the-badge" />
 </p>
-
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Nourddinak&icon=5&color=7" /></a>
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ## 💫 About me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Nourddinak&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+<img align="right" width="400" src="https://github-stats-extended.vercel.app/api?username=Nourddinak&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
 
 - 🚀 I build **Android apps, backends and tools**, from the phone to the server
 - 🎵 Creator of **[PlayPresence](https://github.com/nourddinak/playpresence)** and **[Sonixy](https://github.com/nourddinak/sonixy)**
@@ -42,10 +41,10 @@
 
 <div align="center">
 
-<a href="https://github.com/nourddinak/playpresence"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourddinak&repo=playpresence&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/nourddinak/sonixy"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourddinak&repo=sonixy&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/nourddinak/DevToggle"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourddinak&repo=DevToggle&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/nourddinak/Gitnova"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourddinak&repo=Gitnova&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/nourddinak/playpresence"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=nourddinak&repo=playpresence&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/nourddinak/sonixy"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=nourddinak&repo=sonixy&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/nourddinak/DevToggle"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=nourddinak&repo=DevToggle&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/nourddinak/Gitnova"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin?username=nourddinak&repo=Gitnova&theme=github_dark&hide_border=true" /></a>
 
 | Project | What it is | Get it |
 | :--- | :--- | :--- |
@@ -92,18 +91,14 @@
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Nourddinak&theme=github-dark-blue&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourddinak&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourddinak&theme=github_dark" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nourddinak&theme=github-compact&hide_border=true&area=true" />
+<img height="175" src="https://github-readme-streak-stats-eight.vercel.app/?user=Nourddinak&theme=github-dark-blue&hide_border=true" />
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs?username=Nourddinak&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nourddinak&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-### 🔝 Top contributed repos
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Nourddinak&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nourddinak&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nourddinak&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nourddinak&theme=github_dark&utcOffset=1" />
 
 ### ✍️ Random dev quote
 
