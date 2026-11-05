@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Now playing on PlayPresence](https://presence.bridgeapi.top/@hope/card.svg?style=round)](https://presence.bridgeapi.top/@hope)
+[![Now playing on PlayPresence](https://presence.bridgeapi.top/@hope/card.svg?style=pill)](https://presence.bridgeapi.top/@hope)
 
 <sub>Live from my phone with <a href="https://play.google.com/store/apps/details?id=com.openapps.playpresence">PlayPresence</a> · <a href="https://github.com/nourddinak/playpresence">get your own card</a></sub>
 
